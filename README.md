@@ -33,19 +33,7 @@ To run this application, please follow these steps:
 1. **Use a VPN**: Ensure that you are using **Shekan.ir** to access the software.
 2. **Install Dependencies**: Make sure to install the necessary packages as specified in the `package.json` file.
 3. **Set Up Environment**: Configure your API keys and any additional settings required for the application to function correctly.
-4. **Run the Application**: Execute the script to start the RAG process and input your questions.
+4. **Run the Application**: Execute the following command to run the `MyfirstRag.ts` file:
 
-## ⚙️ Technologies Used
-- **JavaScript**: The primary programming language used for building the application.
-- **TypeScript**: Utilized to improve code clarity and enable better type checking.
-- **Libraries**: Various JavaScript libraries were employed to address specific challenges and enhance functionality.
-
-## 🧩 Challenges Addressed
-Throughout the development of this project, several common issues encountered in JavaScript applications were addressed, ensuring a smoother user experience and improved performance.
-
-## 🏁 Conclusion
-This RAG application showcases the integration of indexing and retrieval processes to deliver meaningful responses to user queries. With the combination of JavaScript and TypeScript, the project emphasizes both functionality and code quality.
-
----
-
-Feel free to copy and paste this markdown code into your GitHub README file. You can further customize it to suit your project’s specific details or add any additional sections as necessary!
+   ```bash
+   ts-node MyfirstRag.ts
