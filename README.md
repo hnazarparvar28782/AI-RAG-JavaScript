@@ -1,4 +1,5 @@
-# 🚀 RAG (Retrieval-Augmented Generation) Project,Build a Retrieval Augmented Generation (RAG) App
+# 🚀 RAG (Retrieval-Augmented Generation) Project
+Build a Retrieval Augmented Generation (RAG) App
 
 ## 📖 Overview
 
