@@ -56,4 +56,4 @@ This RAG application showcases the integration of indexing and retrieval process
 
 ---
 
-Feel free to copy and paste this markdown code into your GitHub README file. You can further customize it to suit your project’s specific details or add any additional sections as necessary!
+
